@@ -1,2 +1,2 @@
-# DeepMind_AI_Research
+# DeepMind-AI-Research-Foundations
 AI technologies behind language models
